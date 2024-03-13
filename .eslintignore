@@ -1,0 +1,11 @@
+build/*
+dist/*
+public/*
+src/react-app-env.d.ts
+src/vite-env.d.ts
+.eslintrc.js
+vite.config.ts
+
+
+*.css
+*.svg
